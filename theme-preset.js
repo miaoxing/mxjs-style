@@ -39,7 +39,7 @@ module.exports = {
     '.5rem',    // 8
     '1rem',     // 16
     '1.5rem',   // 24
-    '3rem'      // 48
+    '3rem',      // 48
   ],
   shadows: {
     sm: '0 .125rem .25rem rgba(0, 0, 0, .075)',
