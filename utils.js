@@ -9,7 +9,7 @@ function generateAntdVars(theme) {
     'yellow-base': theme.colors.yellow,
     'red-base': theme.colors.red,
     'cyan-base': theme.colors.cyan,
-  }
+  };
 }
 
 function generateBootstrapVars(theme) {
@@ -19,7 +19,7 @@ function generateBootstrapVars(theme) {
     yellow: theme.colors.yellow,
     red: theme.colors.red,
     cyan: theme.colors.cyan,
-  }
+  };
 
   let content = '';
   for (const name in vars) {
