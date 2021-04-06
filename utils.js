@@ -4,21 +4,21 @@
 
 function generateAntdVars(theme) {
   return {
-    'blue-base': theme.colors.blue,
-    'green-base': theme.colors.green,
-    'yellow-base': theme.colors.yellow,
-    'red-base': theme.colors.red,
-    'cyan-base': theme.colors.cyan,
+    'blue-base': theme.colors.blue['500'],
+    'green-base': theme.colors.green['500'],
+    'yellow-base': theme.colors.yellow['500'],
+    'red-base': theme.colors.red['500'],
+    'cyan-base': theme.colors.cyan['500'],
   };
 }
 
 function generateBootstrapVars(theme) {
   const vars = {
-    blue: theme.colors.blue,
-    green: theme.colors.green,
-    yellow: theme.colors.yellow,
-    red: theme.colors.red,
-    cyan: theme.colors.cyan,
+    blue: theme.colors.blue['500'],
+    green: theme.colors.green['500'],
+    yellow: theme.colors.yellow['500'],
+    red: theme.colors.red['500'],
+    cyan: theme.colors.cyan['500'],
   };
 
   let content = '';
