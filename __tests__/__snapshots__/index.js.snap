@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`style generateAntdVars 1`] = `
+Object {
+  "blue-base": "#1cb7f0",
+  "cyan-base": "#5bc0de",
+  "green-base": "#5cb85c",
+  "red-base": "#fa5b50",
+  "yellow-base": "#f28c48",
+}
+`;
+
+exports[`style generateBootstrapVars 1`] = `
+"$blue: #1cb7f0 !default;
+$green: #5cb85c !default;
+$yellow: #f28c48 !default;
+$red: #fa5b50 !default;
+$cyan: #5bc0de !default;
+"
+`;
