@@ -9,6 +9,9 @@ function generateAntdVars(theme) {
     'yellow-base': theme.colors.yellow['500'],
     'red-base': theme.colors.red['500'],
     'cyan-base': theme.colors.cyan['500'],
+    // 用于 antd-button-color
+    'success-color': theme.colors.green['500'],
+    'warning-color': theme.colors.yellow['500'],
   };
 }
 
