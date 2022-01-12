@@ -1,3 +1,18 @@
+## [0.2.4](https://github.com/miaoxing/mxjs-style/compare/v0.2.3...v0.2.4) (2022-01-12)
+
+
+### Features
+
+* **style:** 增加 `antd-button-color` 所需的按钮颜色 ([2cb6324](https://github.com/miaoxing/mxjs-style/commit/2cb63249fa9201b82ef4231df81c97d39e5da995))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 ## [0.2.3](https://github.com/miaoxing/mxjs-style/compare/v0.2.2...v0.2.3) (2021-10-28)
 
 
