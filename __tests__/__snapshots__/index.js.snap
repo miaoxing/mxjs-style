@@ -6,6 +6,8 @@ Object {
   "cyan-base": "#5bc0de",
   "green-base": "#5cb85c",
   "red-base": "#fa5b50",
+  "success-color": "#5cb85c",
+  "warning-color": "#f28c48",
   "yellow-base": "#f28c48",
 }
 `;
