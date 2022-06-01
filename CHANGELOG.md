@@ -1,3 +1,13 @@
+## [0.2.6](https://github.com/miaoxing/mxjs-style/compare/v0.2.5...v0.2.6) (2022-06-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.0` to `8.1.1`
+
 ## [0.2.5](https://github.com/miaoxing/mxjs-style/compare/v0.2.4...v0.2.5) (2022-02-05)
 
 
