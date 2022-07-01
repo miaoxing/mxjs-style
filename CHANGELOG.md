@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-style/compare/v0.2.6...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([7de3435](https://github.com/miaoxing/mxjs-style/commit/7de34354ed6d79477af8c6b1bd63ff0d78e4f4e9))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.2.6](https://github.com/miaoxing/mxjs-style/compare/v0.2.5...v0.2.6) (2022-06-01)
 
 
