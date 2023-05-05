@@ -2,19 +2,6 @@
  * NOTE: 仅支持小部分变量的转换，其他需要可以再加上
  */
 
-function generateAntdVars(theme) {
-  return {
-    'blue-base': theme.colors.blue['500'],
-    'green-base': theme.colors.green['500'],
-    'yellow-base': theme.colors.yellow['500'],
-    'red-base': theme.colors.red['500'],
-    'cyan-base': theme.colors.cyan['500'],
-    // 用于 antd-button-color
-    'success-color': theme.colors.green['500'],
-    'warning-color': theme.colors.yellow['500'],
-  };
-}
-
 function generateBootstrapVars(theme) {
   const vars = {
     blue: theme.colors.blue['500'],
@@ -32,6 +19,5 @@ function generateBootstrapVars(theme) {
 }
 
 module.exports = {
-  generateAntdVars,
   generateBootstrapVars,
 };
