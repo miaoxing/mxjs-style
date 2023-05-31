@@ -1,3 +1,23 @@
+# [2.0.0](https://github.com/miaoxing/mxjs-style/compare/v1.0.2...v2.0.0) (2023-05-31)
+
+
+### Code Refactoring
+
+* **style, antd5:** 移除 `generateAntdVars` 方法 ([52070de](https://github.com/miaoxing/mxjs-style/commit/52070ded1d6a2762f224f74291127ba8c1012b1d))
+
+
+### BREAKING CHANGES
+
+* **style, antd5:** `style` 移除 `generateAntdVars` 方法
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.2.0` to `8.2.1`
+
 ## [1.0.2](https://github.com/miaoxing/mxjs-style/compare/v1.0.1...v1.0.2) (2023-01-01)
 
 
